@@ -11,6 +11,6 @@ def main(data:str):
         if i.isalpha():
             list1.append(i)
     return list1
-print(main(open('txt_file/data03.txt').read()))
+print(main(open('txt_file/data04.txt').read()))
     
 # Read data from file
